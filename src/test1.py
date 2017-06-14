@@ -8,3 +8,4 @@ def test1():
         return 1
     print "end"
     print "Test1 testcase need to be improvised"
+    print "revamped"

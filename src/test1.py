@@ -9,3 +9,4 @@ def test1():
     print "end"
     print "Test1 testcase need to be improvised"
     print "revamped"
+    print "Revamp 2"

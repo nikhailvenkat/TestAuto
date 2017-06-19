@@ -6,3 +6,5 @@ def test3():
     if res == 1:
         return 1
     print "revamped"
+        return 1
+    print "Test3 revamped"

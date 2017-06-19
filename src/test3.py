@@ -5,3 +5,4 @@ def test3():
     res = 1
     if res == 1:
         return 1
+    print "revamped"
